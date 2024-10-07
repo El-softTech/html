@@ -45,7 +45,7 @@ section {
   padding: 100px 20px;
   height: 100vh;
 }
-#home { background-color: lightblue; }
+#home { background-color: black; }
 #gallery { background-color: lightcoral; }
 #about { background-color: lightgreen; }
 #contact { background-color: lightgoldenrodyellow; text-align: center; }
